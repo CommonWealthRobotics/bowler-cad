@@ -15,7 +15,7 @@ addons:
     packages:
       - blender
   homebrew:
-    packages:
+    casks:
       - blender
 
 script:
