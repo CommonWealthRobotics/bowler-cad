@@ -4,6 +4,9 @@ version: "{branch} {build}"
 build:
   verbosity: detailed
 
+install:
+  - cinst blender
+
 build_script:
   - gradlew.bat spotlessApply --stacktrace --no-daemon
   - gradlew.bat assemble --stacktrace --no-daemon
