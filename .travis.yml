@@ -14,6 +14,9 @@ addons:
   apt:
     packages:
       - blender
+  homebrew:
+    packages:
+      - blender
 
 script:
   - ./gradlew check jacocoTestReport --stacktrace -PlogTests -Pheadless
