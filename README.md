@@ -7,6 +7,8 @@
 [![codecov](https://codecov.io/gh/CommonWealthRobotics/bowler-cad/branch/master/graph/badge.svg)](https://codecov.io/gh/CommonWealthRobotics/bowler-cad)
 [![License: LGPL-3.0](https://img.shields.io/github/license/CommonWealthRobotics/bowler-kernel.svg)](https://img.shields.io/github/license/CommonWealthRobotics/bowler-kernel.svg)
 
+Archived: bowler-cad has been merged into [bowler-kernel](https://github.com/CommonWealthRobotics/bowler-kernel)
+
 CAD for the Bowler stack.
 
 Currently, issue tracking is done with ZenHub, so users without ZenHub will see some empty and possibly confusing issues.
